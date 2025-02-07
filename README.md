@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @calicocat-project
 - 👀 I’m interested in minecraft modding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on nothing rlly
-- 📫 How to reach me: discord
+- 🌱 I’m currently learning java(i'm dumb, please be patient)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: cat!
 
